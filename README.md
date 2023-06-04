@@ -4,7 +4,7 @@ This is an application called Note Taker that can be used to write and save note
 ## Installation
 N/A
 ## Usage
-If you want to see the deployed application, visit this link: 
+If you want to see the deployed application, visit this link: https://nameless-sands-97852.herokuapp.com/  
 If you want to run it locally, follow this steps. You can clone this repo locally then follow the steps below:
 1. Run this command to install dependencies
 ```bash
