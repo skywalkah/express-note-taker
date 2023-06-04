@@ -1,6 +1,12 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Mr Rogers",
+    "text": "Was a kind man",
+    "id": "357bd776-b09b-469f-b248-3e038cbd43c9"
+  },
+  {
+    "title": "Al Pacino",
+    "text": "Not a kind man",
+    "id": "42470eb3-cb92-4602-bfb4-cbadbe8c4c23"
+  }
 ]
